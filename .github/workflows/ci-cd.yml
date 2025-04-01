@@ -11,7 +11,7 @@ on:
 
 jobs:
   # Job para verificação do terraform do db em pull requests e merge para a main e push da main
-  sqs:
+  db:
     name: Terraform Verification and Push DB
     runs-on: ubuntu-latest
 
