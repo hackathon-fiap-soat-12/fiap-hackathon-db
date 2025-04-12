@@ -33,5 +33,3 @@ resource "aws_elasticache_subnet_group" "loki_subnet_group" {
   name       = var.elasticache_subnet_group_name
   subnet_ids = [for subnet in data.aws_subnet.selected_subnets : subnet.id]
 }
-
-
