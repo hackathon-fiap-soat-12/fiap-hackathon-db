@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hackathon - DB
+# FIAP Hackathon - DB
 
 ![GitHub Release Date](https://img.shields.io/badge/Release%20Date-Fevereiro%202025-yellowgreen)
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellowgreen)
