@@ -20,7 +20,6 @@ Este repositório é responsável criar o Banco da aplicação.
 ![AWS SecretManager](https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C.svg?style=for-the-badge&logo=AWS-Secrets-Manager&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 
 </div>
@@ -31,6 +30,7 @@ Este repositório é responsável criar o Banco da aplicação.
 
 - **[Terraform](https://www.terraform.io/)**: Site oficial do Terraform.
 - **[AWS](https://aws.amazon.com/pt/)**: Site oficial da AWS.
+- **[DynamoDB](https://aws.amazon.com/pt/dynamodb/)**: Site oficial da DynamoDB.
 
 ## 🚀 Execução
 
