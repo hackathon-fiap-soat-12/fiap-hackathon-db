@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "video_file_store" {
-  bucket = "fiap-alquimia-dos-frames"
+  bucket = "fiap-alquimia-dos-frames-hackathon-soat-8"
 
   force_destroy = true
 }
